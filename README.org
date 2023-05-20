@@ -1,0 +1,9 @@
+* cl-messagepack
+
+A Common Lisp implementation of Message Pack
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/mbrezu/cl-messagepack.git |
+| commit  | b305346                                          |
+| systems | cl-messagepack                                   |
+|---------+--------------------------------------------------|
